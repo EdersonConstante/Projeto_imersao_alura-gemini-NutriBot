@@ -1,5 +1,5 @@
 # Projeto_imersao_alura-gemini-NutriBot
-NutriBot
+
 ![NutriBot](https://github.com/EdersonConstante/Projeto_imersao_alura-gemini-NutriBot/assets/157431458/e29a5e25-3099-44a3-a3d7-9a59ddc58bad)
 O NutriBot é um chat bot simples desenvolvido em Python que fornece dicas básicas de saúde e ajuda os usuários a encontrarem nutricionistas em sua área. Este projeto foi desenvolvido como parte da colaboração entre o projeto Imersão Alura e o Google.
 
